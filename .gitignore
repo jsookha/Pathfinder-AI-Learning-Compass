@@ -1,0 +1,31 @@
+# MkDocs build output
+site/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environment folders
+env/
+venv/
+ENV/
+.venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup / temporary files
+*.swp
+*.swo
+*~
