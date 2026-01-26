@@ -1,0 +1,31 @@
+site_name: Pathfinder – AI Learning Compass
+nav:
+  - Home: README.md
+  - Parents’ Guide:
+      - Introduction: parents-guide/01-introduction.md
+      - Framework: parents-guide/02-framework.md
+      - Prompt Playbook: parents-guide/03-prompt-playbook.md
+      - Risks Checklist: parents-guide/04-risks-checklist.md
+      - Quick Reference: parents-guide/05-quick-reference.md
+  - Students’ Guide:
+      - Introduction: students-guide/01-introduction.md
+      - Toolkit: students-guide/02-toolkit.md
+      - Workflow: students-guide/03-workflow.md
+      - Subject Strategies: students-guide/04-subject-strategies.md
+      - Integrity Checklist: students-guide/05-integrity-checklist.md
+      - Quick Reference: students-guide/06-quick-reference.md
+  - Shared:
+      - Foundational Framework: shared/01-foundational-framework.md
+
+theme:
+  name: material
+  palette:
+    primary: green
+    accent: teal
+  font:
+    text: Roboto
+    code: Fira Code
+    # headings currently limited to text/code in Material config
+    # Vast Shadow can be added via extra_css
+extra_css:
+  - styles/extra.css
