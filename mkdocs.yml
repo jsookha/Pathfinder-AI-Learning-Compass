@@ -27,5 +27,3 @@ theme:
     code: Fira Code
 extra_css:
   - styles/extra.css
-
-docs_dir: .
