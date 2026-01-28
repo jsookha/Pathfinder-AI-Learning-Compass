@@ -48,8 +48,7 @@ pathfinder-ai-learning-compass/
 │   └── 06-quick-reference.md
 │
 └── shared/                     # Common foundation
-    ├── 01-foundational-framework.md
-    └── 02-references.md
+    └── 01-foundational-framework.md
 ```
 
 ---

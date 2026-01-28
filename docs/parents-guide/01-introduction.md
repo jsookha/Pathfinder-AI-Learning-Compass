@@ -1,5 +1,6 @@
-## Pathfinder – AI Learning Compass  
+# Pathfinder – AI Learning Compass  
 **Parents’ Guide: Supporting Your Child’s Learning with AI**
+**File: `parents-guide/01-introduction.md`**
 
 ---
 
