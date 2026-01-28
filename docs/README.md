@@ -47,6 +47,16 @@ pathfinder-ai-learning-compass/
 │   ├── 05-integrity-checklist.md
 │   └── 06-quick-reference.md
 │
+├── tertiary-guide/             # For (higher-education) students working independently
+│   ├── 01-introduction.md
+│   ├── 02-learning-support.md
+│   ├── 03-assessment-support.md
+│   ├── 04-assignment-guidance.md
+│   ├── 05-research-writing.md
+│   ├── 06-test-prep.md
+│   ├── 05-integrity-checklist.md
+│   └── 08-quick-reference.md
+│
 └── shared/                     # Common foundation
     └── 01-foundational-framework.md
 ```
