@@ -16,10 +16,10 @@ Practice questions are most effective when they force you to retrieve informatio
 
 This can be adapted for:
 
-▸ **Sciences:** definitions, processes, and explanations
-▸ **Engineering:** calculations, design reasoning, and constraints
-▸ **Computer science:** algorithm logic, code tracing, and conceptual questions
-▸ **Arts & humanities:** short analytical or interpretive questions
+▸ **Sciences:** definitions, processes, and explanations  
+▸ **Engineering:** calculations, design reasoning, and constraints  
+▸ **Computer science:** algorithm logic, code tracing, and conceptual questions  
+▸ **Arts & humanities:** short analytical or interpretive questions  
 
 The key is to attempt answers *before* viewing feedback.
 
@@ -34,10 +34,10 @@ Many assessments require you to apply theory to scenarios rather than recall fac
 
 Other examples include:
 
-▸ a patient presenting symptoms in a clinical scenario
-▸ a system failing under specific engineering constraints
-▸ a dataset requiring interpretation
-▸ a historical figure responding to a critique
+▸ a patient presenting symptoms in a clinical scenario  
+▸ a system failing under specific engineering constraints  
+▸ a dataset requiring interpretation  
+▸ a historical figure responding to a critique  
 
 These simulations help develop decision-making, communication, and justification skills.
 
@@ -52,9 +52,9 @@ AI can quiz you on key ideas, definitions, models, or case studies, reinforcing 
 
 This approach helps:
 
-▸ consolidate knowledge
-▸ identify areas of confusion
-▸ prepare for time-limited responses
+▸ consolidate knowledge  
+▸ identify areas of confusion  
+▸ prepare for time-limited responses  
 
 If you consistently struggle with certain questions, revisit the underlying concepts before continuing.
 
@@ -69,9 +69,9 @@ Exams often test whether you can apply knowledge in unfamiliar contexts. AI can 
 
 This is particularly useful for:
 
-▸ problem-solving in engineering and sciences
-▸ case analysis in healthcare, law, and business
-▸ interpreting scenarios in social sciences and humanities
+▸ problem-solving in engineering and sciences  
+▸ case analysis in healthcare, law, and business  
+▸ interpreting scenarios in social sciences and humanities  
 
 Focus on explaining *why* an answer works, not just arriving at it.
 
@@ -86,9 +86,9 @@ Feedback is most useful when it highlights reasoning gaps. AI can help review yo
 
 Use this feedback to:
 
-▸ refine explanations
-▸ improve structure and clarity
-▸ strengthen justification
+▸ refine explanations  
+▸ improve structure and clarity  
+▸ strengthen justification  
 
 Always compare AI feedback with marking rubrics or past examiners’ comments where available.
 

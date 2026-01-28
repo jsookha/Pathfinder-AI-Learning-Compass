@@ -60,9 +60,9 @@ Each section is designed to be used independently or together, depending on your
 
 Generative AI is powerful, evolving, and imperfect. Responsible use requires judgement, not just technical skill. As you use AI tools, always:
 
-▸ Cross-check information with trusted academic sources such as textbooks, peer-reviewed articles, official standards, or professional guidelines.
-▸ Use AI outputs as **starting points**, not finished products.
-▸ Reflect on *why* an answer makes sense, not just whether it sounds polished.
-▸ Follow your institution’s specific guidelines on AI use in coursework and assessments.
+▸ Cross-check information with trusted academic sources such as textbooks, peer-reviewed articles, official standards, or professional guidelines.  
+▸ Use AI outputs as **starting points**, not finished products.  
+▸ Reflect on *why* an answer makes sense, not just whether it sounds polished.  
+▸ Follow your institution’s specific guidelines on AI use in coursework and assessments.  
 
 Approached thoughtfully, AI can become a **learning partner** — one that supports understanding, strengthens skills, and prepares you for lifelong learning in a rapidly changing world. The responsibility, however, always remains yours.

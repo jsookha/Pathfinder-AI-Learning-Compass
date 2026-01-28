@@ -1,91 +1,108 @@
 # Pathfinder – AI Learning Compass
 
-**Guiding parents and students towards thoughtful, independent learning in the age of artificial intelligence**
+**Guiding parents and students towards thoughtful, independent learning in the age of artificial intelligence.**
 
 ---
 
 ## ◆ Overview
-Artificial Intelligence is now part of everyday life, including education. It can explain concepts, provide practice questions, and help organise ideas. But if used passively, it risks replacing the learner’s own thinking.  
 
-**Pathfinder – AI Learning Compass** is a project designed to help parents and students use AI responsibly. It provides two complementary guides:  
+Artificial Intelligence is now part of everyday life, including education. While it can explain complex concepts and organize ideas, its greatest risk is replacing the learner’s own thinking.
 
-- **Parents’ Guide:** Helping parents support children from early primary to lower secondary years.  
-- **Students’ Guide:** Helping older students (upper primary and secondary) use AI as a study partner.  
+**Pathfinder** is a roadmap for navigating this new landscape. It is designed to ensure that AI remains a **compass** that points toward understanding, rather than a vehicle that carries the learner to the finish line without effort.
 
-Both guides are built on the same foundation: AI is a **compass** that points towards understanding, but the learner must walk the path.
+### Choose Your Path
+
+* **[Parents’ Guide](https://www.google.com/search?q=parents-guide/01-introduction.md):** Support for parents of primary and lower-secondary children.
+* **[Students’ Guide](https://www.google.com/search?q=students-guide/01-introduction.md):** Empowering secondary students to use AI as a responsible study partner.
+* **[Tertiary Guide](https://www.google.com/search?q=tertiary-guide/01-introduction.md):** Advanced strategies for higher education, focusing on research, integrity, and test prep.
 
 ---
 
 ## ◆ Core Principles
-✦ **Diagnosis** – Spot where the learner is stuck.  
-✦ **Decomposition** – Break tasks into smaller steps.  
-✦ **Prompt Engineering** – Ask AI for guidance, practice, or explanation, not answers.  
-✦ **Critical Evaluation** – Check AI’s response against notes and ensure independent thought.  
 
-**AI guides. You decide.**
+The "Compass" is built on four pillars of metacognitive learning:
+
+✦ **Diagnosis** – Identify exactly where the learning gap is.
+
+✦ **Decomposition** – Breaking overwhelming tasks into manageable steps.
+
+✦ **Prompt Engineering** – Crafting inquiries that ask for *guidance*, not *answers*.
+
+✦ **Critical Evaluation** – Validating AI output against trusted sources.
+
+> **AI guides. You decide.**
 
 ---
 
-## ◆ Repository Structure
-```
+## ◆ Navigation & Structure
+
+If you are viewing this on the web, use the sidebar to explore the specific sections. If you are viewing the source repository, the structure is organized as follows:
+
+```text
+docs/
+├── parents-guide/     # Early to Lower Secondary support
+├── students-guide/    # Secondary school independent workflow
+├── tertiary-guide/    # Higher Education & Research support
+└── shared/            # The foundational framework for all guides
+
 pathfinder-ai-learning-compass/
-│
-├── README.md                  # Project overview (this file)
-│
+├── docs/
+├── README.md			# Index Page 		
 ├── parents-guide/              # For parents supporting children
 │   ├── 01-introduction.md
 │   ├── 02-framework.md
 │   ├── 03-prompt-playbook.md
 │   ├── 04-risks-checklist.md
 │   └── 05-quick-reference.md
-│
-├── students-guide/             # For students working independently
+├── students-guide/            	# For students working independently
 │   ├── 01-introduction.md
 │   ├── 02-toolkit.md
 │   ├── 03-workflow.md
 │   ├── 04-subject-strategies.md
 │   ├── 05-integrity-checklist.md
 │   └── 06-quick-reference.md
-│
-├── tertiary-guide/             # For (higher-education) students working independently
+├── tertiary-guide/            	# For tertiary students working independently
 │   ├── 01-introduction.md
 │   ├── 02-learning-support.md
 │   ├── 03-assessment-support.md
 │   ├── 04-assignment-guidance.md
 │   ├── 05-research-writing.md
 │   ├── 06-test-prep.md
-│   ├── 05-integrity-checklist.md
+│   ├── 07-integrity-checklist.md
 │   └── 08-quick-reference.md
-│
-└── shared/                     # Common foundation
+└── shared/                    	# Common foundation
     └── 01-foundational-framework.md
+
 ```
 
 ---
 
-## ◆ How to Use
-▸ **Parents:** Start with the *Parents’ Guide*. Use the framework and playbook to support your child’s learning without outsourcing thinking.  
-▸ **Students:** Start with the *Students’ Guide*. Follow the workflow to understand, practise, create, and review responsibly.  
-▸ **Educators:** Explore both guides. Share them with families and students to encourage responsible AI use in learning.  
+## ◆ How to Engage
+
+* **Parents:** Begin with the *Framework* to understand how to guide with your child.
+* **Students:** Start with the *Workflow* to integrate AI into your daily study habits without sacrificing academic integrity.
+* **Educators:** These guides are open-access resources to help families navigate the AI transition.
 
 ---
 
-## ◆ Publishing
-This repository is designed to be accessible through **GitHub Pages**, providing a clean website view for parents and students. A mirrored version may also be hosted on a personal site for redundancy.
+## ◆ About the Project
+
+**Author:** Jessel Sookha
+
+**Contact:** [jsookha@gmail.com](mailto:jsookha@gmail.com)
+
+Pathfinder is a living project born from the need to protect authentic learning in a high-tech world. As this is a new initiative, **your feedback is invaluable.** Whether you are a parent seeing a change in your child's study habits, or a student finding a new way to tackle a difficult subject, I would love to hear your story. If you have suggestions for new "Prompt Playbooks" or workflow improvements, please reach out via email.
 
 ---
 
 ## ◆ Acknowledgements
-This project builds on insights from:  
-▸ Cognitive psychology research into AI’s impact on learning.  
-▸ Practical frameworks for metacognitive awareness and responsible technology use.  
-▸ Real-world experiences of parents, students, and educators navigating AI in education.  
 
----
+This project synthesizes insights from:
 
-## ◆ Final Note
-Pathfinder – AI Learning Compass is not a perfect solution, and neither is AI. It is a guide to help families and students use AI responsibly, ensuring that learning remains authentic, independent, and resilient.  
+▸ Cognitive psychology and the "desirable difficulties" of learning.
 
-**AI guides. You decide.**
+▸ Modern prompt engineering frameworks tailored for pedagogy.
 
----
+▸ The collective experience of educators navigating the generative AI shift.
+
+**Pathfinder – AI Learning Compass** is not a shortcut; it is a commitment to ensuring that learning remains authentic, independent, and resilient.

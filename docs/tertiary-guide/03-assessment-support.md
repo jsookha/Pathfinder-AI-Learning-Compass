@@ -11,16 +11,16 @@ Generative AI can support assessment preparation by helping you clarify difficul
 
 Many subjects rely on abstract or technical theories that are difficult to grasp on first reading. AI can help by:
 
-▸ explaining ideas in simpler language
-▸ offering metaphors or analogies
-▸ comparing related concepts
+▸ explaining ideas in simpler language  
+▸ offering metaphors or analogies  
+▸ comparing related concepts  
 
 This is useful for:
 
-▸ **Sciences & engineering:** models, laws, and systems
-▸ **Healthcare:** theoretical frameworks guiding practice
-▸ **Computer science:** computational concepts and architectures
-▸ **Humanities & business:** theories of behaviour, culture, or organisation
+▸ **Sciences & engineering:** models, laws, and systems  
+▸ **Healthcare:** theoretical frameworks guiding practice  
+▸ **Computer science:** computational concepts and architectures  
+▸ **Humanities & business:** theories of behaviour, culture, or organisation  
 
 **Prompt starter:**
 *“Explain the concept of consumer behaviour in simple terms with a practical example.”*
@@ -29,9 +29,9 @@ This is useful for:
 
 After reading an AI explanation, ask yourself:
 
-▸ Does this align with my lecture notes or textbook?
-▸ Where might this explanation be oversimplified?
-▸ Could I explain this concept to someone else?
+▸ Does this align with my lecture notes or textbook?  
+▸ Where might this explanation be oversimplified?  
+▸ Could I explain this concept to someone else?  
 
 These questions help ensure understanding rather than surface familiarity.
 
@@ -51,9 +51,9 @@ Academic articles often use dense language, specialised terminology, and assumed
 
 This approach is especially helpful when:
 
-▸ reading empirical research in sciences or healthcare
-▸ interpreting technical papers in engineering or computer science
-▸ analysing theoretical or critical writing in the humanities
+▸ reading empirical research in sciences or healthcare  
+▸ interpreting technical papers in engineering or computer science  
+▸ analysing theoretical or critical writing in the humanities  
 
 Always return to the original text after clarification to ensure you engage with the author’s argument directly.
 
@@ -68,15 +68,15 @@ One of the most effective learning strategies is **self-explanation** — articu
 
 This method supports:
 
-▸ correcting misunderstandings early
-▸ refining definitions and explanations
-▸ preparing for short-answer or oral assessments
+▸ correcting misunderstandings early  
+▸ refining definitions and explanations  
+▸ preparing for short-answer or oral assessments  
 
 If AI disagrees with your interpretation, treat that as a signal to:
 
-▸ revisit course materials
-▸ consult lecture notes or readings
-▸ ask your lecturer or tutor for clarification
+▸ revisit course materials  
+▸ consult lecture notes or readings  
+▸ ask your lecturer or tutor for clarification  
 
 The goal is not agreement with AI, but alignment with academic standards.
 
@@ -88,16 +88,16 @@ AI can also be used to stress-test your thinking by pointing out assumptions, lo
 
 You might ask:
 
-▸ *“What assumptions am I making in this explanation?”*
-▸ *“Where could this reasoning fail in a real-world scenario?”*
-▸ *“What common misconceptions do students have about this concept?”*
+▸ *“What assumptions am I making in this explanation?”*  
+▸ *“Where could this reasoning fail in a real-world scenario?”*  
+▸ *“What common misconceptions do students have about this concept?”*  
 
 This practice is useful for:
 
-▸ clinical reasoning in healthcare
-▸ systems thinking in engineering
-▸ algorithm design in computer science
-▸ critical analysis in law, business, and the arts
+▸ clinical reasoning in healthcare  
+▸ systems thinking in engineering  
+▸ algorithm design in computer science  
+▸ critical analysis in law, business, and the arts  
 
 Learning to identify flaws in your own reasoning is a key academic and professional skill.
 
@@ -105,14 +105,14 @@ Learning to identify flaws in your own reasoning is a key academic and professio
 
 ## ◆ Responsible Use Reminder
 
-▸ Use AI to **clarify, test, and challenge your understanding**, not to replace reading or independent analysis.
-▸ Treat AI explanations as provisional — always verify against authoritative sources.
-▸ Remember that assessments reward **your reasoning process**, not just correct conclusions.
+▸ Use AI to **clarify, test, and challenge your understanding**, not to replace reading or independent analysis.  
+▸ Treat AI explanations as provisional — always verify against authoritative sources.  
+▸ Remember that assessments reward **your reasoning process**, not just correct conclusions.  
 
 Before submitting work or sitting an assessment, ask yourself:
 
-▸ *Could I explain this concept clearly without AI assistance?*
-▸ *Do I understand why this answer is correct, not just that it is?*
+▸ *Could I explain this concept clearly without AI assistance?*  
+▸ *Do I understand why this answer is correct, not just that it is?*  
 
 ---
 

@@ -13,18 +13,18 @@ Strong learning depends on being able to **retrieve information**, not just reco
 
 This is useful across disciplines:
 
-▸ **Sciences & healthcare:** memorising processes, anatomy, pathways, or protocols
-▸ **Engineering & computer science:** recalling formulas, algorithms, or system steps
-▸ **Law, business, and arts:** remembering theories, frameworks, or historical developments
+▸ **Sciences & healthcare:** memorising processes, anatomy, pathways, or protocols  
+▸ **Engineering & computer science:** recalling formulas, algorithms, or system steps  
+▸ **Law, business, and arts:** remembering theories, frameworks, or historical developments  
 
 **Prompt starter:**
 *“Suggest techniques to help me memorise the stages of cellular respiration, and provide a practice quiz.”*
 
 You can adapt this prompt to other contexts, for example:
 
-▸ *“…the steps in a clinical assessment”*
-▸ *“…the phases of a software development lifecycle”*
-▸ *“…key theories in art history”*
+▸ *“…the steps in a clinical assessment”*  
+▸ *“…the phases of a software development lifecycle”*  
+▸ *“…key theories in art history”*  
 
 The goal is not rote memorisation alone, but building a mental structure that supports deeper understanding.
 
@@ -36,9 +36,9 @@ When studying complex topics or juggling multiple tasks, your thoughts can feel 
 
 This approach is particularly helpful when:
 
-▸ preparing for exams
-▸ planning assignments or projects
-▸ synthesising material from multiple lectures or readings
+▸ preparing for exams  
+▸ planning assignments or projects  
+▸ synthesising material from multiple lectures or readings  
 
 **Prompt starter:**
 *“Here is my rough mind-dump on globalisation. Please organise these thoughts into categories and highlight gaps I should explore further.”*
@@ -53,18 +53,18 @@ AI can simulate the role of a tutor by asking questions, prompting explanations,
 
 Used responsibly, this helps:
 
-▸ reveal misunderstandings
-▸ practise explaining ideas in your own words
-▸ prepare for tutorials, labs, or exams
+▸ reveal misunderstandings  
+▸ practise explaining ideas in your own words  
+▸ prepare for tutorials, labs, or exams  
 
 **Prompt starter:**
 *“Act as my tutor in microeconomics. Ask me five questions about supply and demand, and give feedback on my answers.”*
 
 This approach also works well for:
 
-▸ **Healthcare:** patient scenarios or clinical reasoning
-▸ **Engineering:** explaining design decisions or calculations
-▸ **Computer science:** walking through algorithms or code logic
+▸ **Healthcare:** patient scenarios or clinical reasoning  
+▸ **Engineering:** explaining design decisions or calculations  
+▸ **Computer science:** walking through algorithms or code logic  
 
 If you struggle to explain something clearly, that’s a signal to revisit the material.
 
@@ -79,10 +79,10 @@ Surface learning focuses on memorising definitions or steps. Deep learning invol
 
 For other disciplines, this might include:
 
-▸ applying a scientific theory to a real experiment
-▸ testing how an engineering principle behaves under constraints
-▸ evaluating ethical implications of a healthcare decision
-▸ interpreting a concept through multiple artistic or cultural lenses
+▸ applying a scientific theory to a real experiment  
+▸ testing how an engineering principle behaves under constraints  
+▸ evaluating ethical implications of a healthcare decision  
+▸ interpreting a concept through multiple artistic or cultural lenses  
 
 The focus is not on getting “the right answer”, but on strengthening your ability to think flexibly and critically.
 
@@ -97,9 +97,9 @@ Before starting new material, it helps to identify your existing knowledge. AI c
 
 This technique supports efficient studying by:
 
-▸ preventing unnecessary repetition
-▸ directing attention to weak spots
-▸ increasing confidence through awareness of progress
+▸ preventing unnecessary repetition  
+▸ directing attention to weak spots  
+▸ increasing confidence through awareness of progress  
 
 It is particularly useful before exams, practical assessments, or major projects.
 
@@ -114,10 +114,10 @@ AI can role-play stakeholders, clients, patients, systems, or historical figures
 
 Other examples might include:
 
-▸ a patient presenting symptoms
-▸ a client requesting a technical solution
-▸ a system failing under specific constraints
-▸ a historical figure responding to a critique
+▸ a patient presenting symptoms  
+▸ a client requesting a technical solution  
+▸ a system failing under specific constraints  
+▸ a historical figure responding to a critique  
 
 These simulations develop judgement, communication skills, and professional reasoning — all of which are essential beyond university.
 
@@ -132,10 +132,10 @@ Reflection helps you understand *how* you learn, not just *what* you learn. AI c
 
 This can support:
 
-▸ clinical reflection in healthcare
-▸ design iteration in engineering
-▸ debugging and problem-solving in computer science
-▸ conceptual growth in theoretical subjects
+▸ clinical reflection in healthcare  
+▸ design iteration in engineering  
+▸ debugging and problem-solving in computer science  
+▸ conceptual growth in theoretical subjects  
 
 Reflection encourages ownership of learning and long-term skill development.
 
@@ -150,9 +150,9 @@ Lecture notes are often incomplete or messy. AI can help turn rough notes or tra
 
 Use this to:
 
-▸ reinforce understanding
-▸ prepare for tutorials
-▸ identify areas needing clarification
+▸ reinforce understanding  
+▸ prepare for tutorials  
+▸ identify areas needing clarification  
 
 Always compare summaries with original lecture materials to ensure accuracy.
 
@@ -160,10 +160,10 @@ Always compare summaries with original lecture materials to ensure accuracy.
 
 ## ◆ Responsible Use Reminder
 
-▸ Use AI outputs as **study aids**, not substitutes for your own work.
-▸ Treat AI explanations as *hypotheses* to be tested against trusted sources.
-▸ Regularly ask yourself: *Could I explain this without AI support?*
-▸ Use prompts to **engage more deeply**, not to avoid effort.
+▸ Use AI outputs as **study aids**, not substitutes for your own work.  
+▸ Treat AI explanations as *hypotheses* to be tested against trusted sources.  
+▸ Regularly ask yourself: *Could I explain this without AI support?*  
+▸ Use prompts to **engage more deeply**, not to avoid effort.  
 
 ---
 
